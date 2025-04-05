@@ -3,7 +3,7 @@
     {
       "source": "/(.*)",
       "destination": "https://lank-ebd2ffa697dc.intercom-mail.com",
-      "permanent": true
+      "statusCode": 301
     }
   ]
 }
