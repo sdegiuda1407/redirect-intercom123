@@ -1,0 +1,9 @@
+{
+  "redirects": [
+    {
+      "source": "/(.*)",
+      "destination": "https://lank-ebd2ffa697dc.intercom-mail.com",
+      "statusCode": 301
+    }
+  ]
+}
